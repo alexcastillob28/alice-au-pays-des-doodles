@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  h1, h2, h3, h4 {
+    font-family: var(--font-heading);
+    color: #8B5E3C;
+  }
+  body {
+    font-family: var(--font-body);
+    color: #6B4226;
+    background-color: #F5EBE4;
+  }
+}
+
+@layer utilities {
+  .border-caramel-40 {
+    border-color: rgba(212, 165, 116, 0.4);
+  }
+}
