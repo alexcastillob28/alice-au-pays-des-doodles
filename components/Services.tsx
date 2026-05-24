@@ -13,11 +13,11 @@ const services = [
         <circle cx="44" cy="22" r="4" stroke="#8B5E3C" strokeWidth="2" opacity="0.6"/>
       </svg>
     ),
-    title: 'Élevage de Goldendoodles',
+    title: 'Élevage de Bernedoodles',
     badge: 'Sur demande',
     price: null,
     description:
-      'Nous élevons des Goldendoodles avec amour dans un environnement familial chaleureux. Nos chiots sont socialisés dès leur naissance, en bonne santé, et prêts à rejoindre leur nouvelle famille.',
+      'Nous élevons des Bernedoodles avec amour dans un environnement familial chaleureux. Nos chiots sont socialisés dès leur naissance, en bonne santé, et prêts à rejoindre leur nouvelle famille.',
     features: [
       'Chiots socialisés en environnement familial',
       'Suivi vétérinaire complet',
@@ -38,8 +38,8 @@ const services = [
       </svg>
     ),
     title: 'Pension Canine',
-    badge: '55 $ / jour',
-    price: '55 $',
+    badge: '45 $ / jour',
+    price: '45 $',
     description:
       "Votre chien mérite le meilleur séjour pendant votre absence. Nous offrons un hébergement confortable et sécuritaire, avec beaucoup d'amour et d'attention personnalisée.",
     features: [

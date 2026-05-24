@@ -17,7 +17,7 @@ export default function Footer() {
               Alice au pays des Doodles
             </h3>
             <p className="font-body text-sm text-cream/65 leading-relaxed">
-              Élevage de Goldendoodles & pension canine à Valleyfield, Montréal.
+              Élevage de Bernedoodles & pension canine à Valleyfield, Montréal.
             </p>
           </div>
 

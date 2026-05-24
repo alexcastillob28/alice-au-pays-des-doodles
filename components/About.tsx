@@ -74,7 +74,7 @@ export default function About() {
               Bienvenue dans notre univers
             </h3>
             <p className="font-body text-cocoa/80 leading-relaxed mb-4">
-              Située au cœur de Valleyfield, à Montréal, Alice au pays des Doodles est une petite éleveuse passionnée qui élève des Goldendoodles dans un cadre familial bienveillant.
+              Située au cœur de Valleyfield, à Montréal, Alice au pays des Doodles est une petite éleveuse passionnée qui élève des Bernedoodles dans un cadre familial bienveillant.
             </p>
             <p className="font-body text-cocoa/80 leading-relaxed mb-4">
               Notre mission est simple : vous offrir un chiot en excellente santé, bien socialisé et débordant d'amour, prêt à s'épanouir dans votre foyer.

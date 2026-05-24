@@ -10,25 +10,25 @@ import Image from 'next/image'
 const photos = [
   {
     src:   '/images/8puppydoodleinline.jpg',
-    alt:   '8 chiots Goldendoodle en rang',
+    alt:   '8 chiots Bernedoodle en rang',
     col:   'md:col-span-2',
     aspect: 'aspect-[16/9]',
   },
   {
     src:   '/images/puppydoodleinbasket.jpg',
-    alt:   'Chiot Goldendoodle dans un panier',
+    alt:   'Chiot Bernedoodle dans un panier',
     col:   'md:col-span-1',
     aspect: 'aspect-square',
   },
   {
     src:   '/images/3goldendoodlesinbasket.jpg',
-    alt:   'Trois Goldendoodles dans un panier',
+    alt:   'Trois Bernedoodles dans un panier',
     col:   'md:col-span-1',
     aspect: 'aspect-square',
   },
   {
     src:   '/images/dogrunninginfield.jpg',
-    alt:   'Goldendoodle courant dans un champ',
+    alt:   'Bernedoodle courant dans un champ',
     col:   'md:col-span-2',
     aspect: 'aspect-[16/9]',
   },

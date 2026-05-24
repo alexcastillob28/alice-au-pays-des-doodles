@@ -20,10 +20,10 @@ const nunito = Nunito({
 export const metadata: Metadata = {
   title: 'Alice au pays des Doodles | Élevage & Pension Canine — Valleyfield',
   description:
-    'Élevage de Goldendoodles et pension canine à Valleyfield, Montréal. Service professionnel et passionné. Pension à 55 $/jour. Renseignez-vous dès aujourd\'hui !',
+    'Élevage de Bernedoodles et pension canine à Valleyfield, Montréal. Service professionnel et passionné. Pension à 45 $/jour. Renseignez-vous dès aujourd\'hui !',
   openGraph: {
     title: 'Alice au pays des Doodles',
-    description: 'Élevage de Goldendoodles & Pension canine à Valleyfield, Montréal.',
+    description: 'Élevage de Bernedoodles & Pension canine à Valleyfield, Montréal.',
     locale: 'fr_CA',
     type: 'website',
   },

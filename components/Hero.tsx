@@ -20,7 +20,7 @@ export default function Hero() {
       {/* Background photo */}
       <Image
         src="/images/dogrunninginfield.jpg"
-        alt="Goldendoodle courant dans un champ"
+        alt="Bernedoodle courant dans un champ"
         fill
         priority
         className="object-cover object-center"
@@ -62,7 +62,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="font-body text-lg md:text-xl text-ivory/85 mb-10 max-w-xl mx-auto leading-relaxed drop-shadow"
         >
-          Élevage de Goldendoodles & pension canine avec amour et dévouement,
+          Élevage de Bernedoodles & pension canine avec amour et dévouement,
           au cœur de Valleyfield
         </motion.p>
 
